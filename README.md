@@ -12,19 +12,9 @@
       <a href="#why">Why</a> ·
       <a href="#quickstart">Quickstart</a> ·
       <a href="#architecture">Architecture</a> ·
-      <a href="#roadmap">Roadmap</a> ·
       <a href="#docs">Docs</a>
     </p>
 </div>
-
-<h1 align="center">Atlas</h1>
-
-<p align="center">
-</p>
-
-<p align="center">
-</p>
-
 
 ---
 
