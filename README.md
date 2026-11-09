@@ -181,9 +181,6 @@ val, _ := c.Get(ctx, "greeting")
   los detalles se expanden con <details>. Esto evita que el README se infle.
 -->
 
-<details>
-<summary><strong>Repository layout</strong> (click to expand)</summary>
-
 ```
 atlas/
 ├── api/
@@ -258,7 +255,6 @@ atlas/
 ├── CONTRIBUTING.md
 └── CHANGELOG.md
 ```
-</details>
 
 ---
 
